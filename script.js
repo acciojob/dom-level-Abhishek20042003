@@ -1,9 +1,9 @@
 //your JS code here. If required.
-let element = document.querySelector('level')
+let element = document.querySelector('#level')
 let currentelement = element;
 let count = 0;
 
-while(currentelement != undefined;){
+while(currentelement ){
 count++;
 currentelement= currentelement.parentElement;
 	
