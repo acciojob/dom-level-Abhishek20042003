@@ -8,4 +8,4 @@ count++;
 currentelement= currentelement.parentElement;
 	
 	}
-Alert('The level of the element is: $(count)')
+Alert(`The level of the element is: $(count)`)
